@@ -4,8 +4,8 @@ public class fiboncci {
         System.out.println(fibo(2));
     }
     static int fibo (int n){
-        if(n == 0){
-            return 0;
+        if(n < 2){
+            return n;
         }
 
         return fibo(n-1) + fibo(n-2);

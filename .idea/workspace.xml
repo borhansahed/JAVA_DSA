@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f18a7d21-d039-477b-bfe2-dd127d2aef82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/SingleLinkedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linear search/Linear search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pattern/Pattern.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/Recursion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionPart2/RecursionPart2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionPart2/out/production/RecursionPart2/SumofDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionPart2/out/production/RecursionPart2/SumofDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionPart2/out/production/RecursionPart2/fiboncci.class" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionPart2/out/production/RecursionPart2/fiboncci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionPart2/src/SumofDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionPart2/src/SumofDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionPart2/src/fiboncci.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionPart2/src/fiboncci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/Sorting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funtion/funtion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem_solving/problem_solving.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FCTtWkeaoHEjwhNC4XKbar1Lod" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Java-Dsa"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f18a7d21-d039-477b-bfe2-dd127d2aef82" name="Changes" comment="" />
+      <created>1663995280716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663995280716</updated>
+    </task>
+    <servers />
+  </component>
+</project>
