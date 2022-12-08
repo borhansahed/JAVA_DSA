@@ -76,7 +76,7 @@ public class Trie {
 
     private void printSuggestion (TrieNode curr, ArrayList<String> temp, String s){
 
-        if(curr.isTerminal == true){
+        if(curr.isTerminal){
 
             temp.add(s);
         }

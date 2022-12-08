@@ -1,6 +1,7 @@
 public class SolvePattern {
     public static void main(String[] args) {
           pattern31(4);
+          pattern28(5);
     }
     static void pattern31(int n){
         n = n-1;
